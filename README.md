@@ -5,4 +5,10 @@
 
 
 
+## Capturara un numero e imprimir todos los numero pares que existen entre 1 y el numero digitado
+
+
+
+
+
 
